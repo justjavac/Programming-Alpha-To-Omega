@@ -47,3 +47,5 @@
 - [使用 Symfony2 的组件创建自己的 PHP 框架](http://www.tangrucheng.com/use-symfony2-component-to-create-your-own-php-framework-index.html) (@ruchengtang)
 
 - [数据库的最简单实现](http://www.ruanyifeng.com/blog/2014/07/database_implementation.html) (阮一峰)
+
+- [动手写一个C语言编译器](http://blog.jobbole.com/77305/) (伯乐在线)
