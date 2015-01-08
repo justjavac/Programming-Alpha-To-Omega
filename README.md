@@ -17,3 +17,5 @@
 
 - [如何从零开始写一个 Chrome 扩展？](http://www.zhihu.com/question/20179805) (知乎)
 
+- [一天时间用python写门语言](http://justjavac.com/python/2012/04/13/one-day-write-language-in-python.html) (justjavac博客)
+
