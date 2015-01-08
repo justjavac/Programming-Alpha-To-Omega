@@ -40,4 +40,6 @@
 
 - [自己动手写俄罗斯方块](http://toigel.blog.51cto.com/2141741/415348) (51CTO)
 
-- [自己动手写编辑器](http://www.phodal.com/blog/lumia-editor-diy-yourself-editor/) (@phodal)
+- [自己动手写编辑器](http://www.phodal.com/blog/lumia-editor-diy-yourself-editor/) #nodejs (@phodal)
+
+- [自己动手写 Git HTTP Server](http://io-meter.com/2014/07/09/simple-git-http-server/) #go (io-meter)
