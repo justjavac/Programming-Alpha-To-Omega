@@ -19,3 +19,4 @@
 
 - [一天时间用python写门语言](http://justjavac.com/python/2012/04/13/one-day-write-language-in-python.html) (justjavac博客)
 
+- [利用 Composer 一步一步构建自己的 PHP 框架](http://lvwenhan.com/php/405.html) (吕文翰)
