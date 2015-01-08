@@ -2,6 +2,8 @@
 
 从零开始学编程系列汇总(从α到Ω)
 
+## 「从零开始」系列
+
 - [从零开始写个编译器吧系列](http://zhuanlan.zhihu.com/mosky/19878087)  (知乎专栏)
 
 - [从零开始写一个简单的操作系统](http://top.jobbole.com/13810/)  (伯乐在线)
@@ -18,6 +20,8 @@
 
 - [如何从零开始写一个 Chrome 扩展？](http://www.zhihu.com/question/20179805) (知乎)
 
+## 「自己动手」系列
+
 - [一天时间用 Python 写门语言](http://justjavac.com/python/2012/04/13/one-day-write-language-in-python.html) (justjavac博客)
 
 - [利用 Composer 一步一步构建自己的 PHP 框架](http://lvwenhan.com/php/405.html) (吕文翰博客)
@@ -27,3 +31,5 @@
 - [自己动手写 HTTP Server](http://blog.csdn.net/heiyeshuwu/article/details/2576915) (CSDN)
 
 - [自己动手写 GC](http://ifeve.com/babys-first-garbage-collector/) (并发编程网)
+
+- [自己动手写一个推荐系统](http://www.cnblogs.com/flclain/archive/2013/03/03/2941397.html) (博客园)
