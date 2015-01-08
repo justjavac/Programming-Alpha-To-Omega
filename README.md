@@ -28,17 +28,17 @@
 
 - [自己动手写虚拟机](http://www.cnblogs.com/john-d/archive/2009/12/05/1617710.html) (博客园)
 
-- [自己动手写 HTTP Server](http://blog.csdn.net/heiyeshuwu/article/details/2576915) #c (CSDN)
+- [自己动手写 HTTP Server](http://blog.csdn.net/heiyeshuwu/article/details/2576915) #C (CSDN)
 
 - [自己动手写 GC](http://it.deepinmind.com/gc/2014/03/26/babys-first-garbage-collector.html) (Java译站)
 
-- [自己动手写一个推荐系统](http://www.cnblogs.com/flclain/archive/2013/03/03/2941397.html) (博客园)
+- [自己动手写一个推荐系统](http://www.cnblogs.com/flclain/archive/2013/03/03/2941397.html) #Python (博客园)
 
-- [自己动手写压缩软件](http://www.cnblogs.com/BlueSky2012/articles/huffman_zip.html) (博客园)
+- [自己动手写压缩软件](http://www.cnblogs.com/BlueSky2012/articles/huffman_zip.html) #C++ (博客园)
 
 - [自己动手开发编译器](http://www.cnblogs.com/Ninputer/archive/2011/06/06/2073908.html) (博客园)
 
-- [自己动手写俄罗斯方块](http://toigel.blog.51cto.com/2141741/415348) (51CTO)
+- [自己动手写俄罗斯方块](http://toigel.blog.51cto.com/2141741/415348) #C (51CTO)
 
 - [自己动手写编辑器](http://www.phodal.com/blog/lumia-editor-diy-yourself-editor/) #nodejs (@phodal)
 
