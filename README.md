@@ -37,3 +37,5 @@
 - [自己动手写压缩软件](http://www.cnblogs.com/BlueSky2012/articles/huffman_zip.html) (博客园)
 
 - [自己动手开发编译器](http://www.cnblogs.com/Ninputer/archive/2011/06/06/2073908.html) (博客园)
+
+- [自己动手写俄罗斯方块](http://toigel.blog.51cto.com/2141741/415348) (51CTO)
