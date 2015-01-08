@@ -43,3 +43,5 @@
 - [自己动手写编辑器](http://www.phodal.com/blog/lumia-editor-diy-yourself-editor/) #nodejs (@phodal)
 
 - [自己动手写 Git HTTP Server](http://io-meter.com/2014/07/09/simple-git-http-server/) #go (io-meter)
+
+- [使用 Symfony2 的组件创建自己的 PHP 框架](http://www.tangrucheng.com/use-symfony2-component-to-create-your-own-php-framework-index.html) (@ruchengtang)
