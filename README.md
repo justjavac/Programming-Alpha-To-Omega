@@ -28,9 +28,9 @@
 
 - [自己动手写虚拟机](http://www.cnblogs.com/john-d/archive/2009/12/05/1617710.html) (博客园)
 
-- [自己动手写 HTTP Server](http://blog.csdn.net/heiyeshuwu/article/details/2576915) (CSDN)
+- [自己动手写 HTTP Server](http://blog.csdn.net/heiyeshuwu/article/details/2576915) #c (CSDN)
 
-- [自己动手写 GC](http://ifeve.com/babys-first-garbage-collector/) (并发编程网)
+- [自己动手写 GC](http://it.deepinmind.com/gc/2014/03/26/babys-first-garbage-collector.html) (Java译站)
 
 - [自己动手写一个推荐系统](http://www.cnblogs.com/flclain/archive/2013/03/03/2941397.html) (博客园)
 
