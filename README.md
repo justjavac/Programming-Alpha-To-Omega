@@ -33,3 +33,5 @@
 - [自己动手写 GC](http://ifeve.com/babys-first-garbage-collector/) (并发编程网)
 
 - [自己动手写一个推荐系统](http://www.cnblogs.com/flclain/archive/2013/03/03/2941397.html) (博客园)
+
+- [自己动手写压缩软件](http://www.cnblogs.com/BlueSky2012/articles/huffman_zip.html) (博客园)
