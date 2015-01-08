@@ -39,3 +39,5 @@
 - [自己动手开发编译器](http://www.cnblogs.com/Ninputer/archive/2011/06/06/2073908.html) (博客园)
 
 - [自己动手写俄罗斯方块](http://toigel.blog.51cto.com/2141741/415348) (51CTO)
+
+- [自己动手写编辑器](http://www.phodal.com/blog/lumia-editor-diy-yourself-editor/) (@phodal)
