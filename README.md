@@ -49,3 +49,5 @@
 - [数据库的最简单实现](http://www.ruanyifeng.com/blog/2014/07/database_implementation.html) (阮一峰)
 
 - [动手写一个C语言编译器](http://blog.jobbole.com/77305/) (伯乐在线)
+
+- [自己动手写 Basic 解释器](http://blog.csdn.net/littlehedgehog/article/details/2928391) (CSDN)
