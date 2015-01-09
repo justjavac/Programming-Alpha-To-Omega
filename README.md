@@ -20,6 +20,8 @@
 
 - [如何从零开始写一个 Chrome 扩展？](http://www.zhihu.com/question/20179805) (知乎)
 
+- [从零开始写框架](http://jayli.github.io/blog/data/2010/12/11/writejslib.html) (@jayli)
+
 ## 「自己动手」系列
 
 - [一天时间用 Python 写门语言](http://justjavac.com/python/2012/04/13/one-day-write-language-in-python.html) (justjavac博客)
