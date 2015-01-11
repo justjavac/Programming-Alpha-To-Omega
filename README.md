@@ -26,7 +26,7 @@
 
 - [一天时间用 Python 写门语言](http://justjavac.com/python/2012/04/13/one-day-write-language-in-python.html) (justjavac博客)
 
-- [利用 Composer 一步一步构建自己的 PHP 框架](http://lvwenhan.com/php/405.html) (吕文翰博客)
+- [利用 Composer 一步一步构建自己的 PHP 框架](http://lvwenhan.com/php/405.html) (岁寒博客 by JohnLui)
 
 - [自己动手写虚拟机](http://www.cnblogs.com/john-d/archive/2009/12/05/1617710.html) (博客园)
 
