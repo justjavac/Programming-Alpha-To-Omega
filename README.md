@@ -22,6 +22,8 @@
 
 - [从零开始写框架](http://jayli.github.io/blog/data/2010/12/11/writejslib.html) (@jayli)
 
+- [零开始学习 avalon ](http://www.html-js.com/article/column/234#2555549-tsina-1-53406-d7478d857d38e757146b9a3c44b2c179) (html-js)
+
 ## 「自己动手」系列
 
 - [一天时间用 Python 写门语言](http://justjavac.com/python/2012/04/13/one-day-write-language-in-python.html) (justjavac博客)
