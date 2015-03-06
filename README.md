@@ -46,7 +46,7 @@
 
 - [自己动手写 Git HTTP Server](http://io-meter.com/2014/07/09/simple-git-http-server/) #go (io-meter)
 
-- [使用 Symfony2 的组件创建自己的 PHP 框架](http://www.tangrucheng.com/use-symfony2-component-to-create-your-own-php-framework-index.html) (@ruchengtang)
+- [使用 Symfony2 的组件创建自己的 PHP 框架](http://www.chrisyue.com/translation-create-your-own-framework-on-top-of-the-symfony2-components-index.html) (@chrisyue)
 
 - [数据库的最简单实现](http://www.ruanyifeng.com/blog/2014/07/database_implementation.html) (阮一峰)
 
