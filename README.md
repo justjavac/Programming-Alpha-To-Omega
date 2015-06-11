@@ -52,4 +52,6 @@
 
 - [动手写一个C语言编译器](http://blog.jobbole.com/77305/) (伯乐在线)
 
+- [一起写一个 Web 服务器](http://python.jobbole.com/81524/) (伯乐在线)
+
 - [自己动手写 Basic 解释器](http://blog.csdn.net/littlehedgehog/article/details/2928391) (CSDN)
