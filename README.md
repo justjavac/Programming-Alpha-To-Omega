@@ -55,3 +55,8 @@
 - [一起写一个 Web 服务器](http://python.jobbole.com/81524/) (伯乐在线)
 
 - [自己动手写 Basic 解释器](http://blog.csdn.net/littlehedgehog/article/details/2928391) (CSDN)
+ 
+了解更多干货，可以关注我的微信公众帐号，每周推送两三篇原创文字。
+
+![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
+
