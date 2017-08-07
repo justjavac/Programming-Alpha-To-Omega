@@ -57,6 +57,8 @@
 - [自己动手写 Basic 解释器](http://blog.csdn.net/littlehedgehog/article/details/2928391) (CSDN)
 
 - [自己动手制作Linux发行版](http://www.iteedu.com/os/linux/lfs/lfscn-6-6/index.php) (ITEEDU)
+
+- [构建自己的 PHP 框架](https://github.com/CraryPrimitiveMan/create-your-own-php-framework) (CraryPrimitiveMan)
  
 了解更多干货，可以关注我的微信公众帐号，每周推送两三篇原创文字。
 
