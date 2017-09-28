@@ -22,6 +22,8 @@
 
 - [从零开始写框架](http://jayli.github.io/blog/data/2010/12/11/writejslib.html) (@jayli)
 
+- [从零开始编MVC框架](https://github.com/biezhi/java-bible/blob/master/mvc/index.md) (@biezhi)
+
 ## 「自己动手」系列
 
 - [一天时间用 Python 写门语言](http://justjavac.com/python/2012/04/13/one-day-write-language-in-python.html) (justjavac博客)
