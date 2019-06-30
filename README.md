@@ -12,6 +12,8 @@
 
 - [从零开始写 jQuery 框架](http://www.blueidea.com/tech/web/2010/7326.asp)  (蓝色理想 )
 
+- [从零开始编MVC框架](https://github.com/biezhi/java-bible/blob/master/mvc/index.md) (@biezhi)
+
 - [从零开始 nodejs 系列文章](http://blog.fens.me/series-nodejs/)  (粉丝日志)
 
 - [从零开始编写网络游戏](https://software.intel.com/zh-cn/blogs/2013/11/07/1/) ( 英特尔® 开发人员专区)
