@@ -59,6 +59,48 @@
 - [自己动手制作Linux发行版](http://www.iteedu.com/os/linux/lfs/lfscn-6-6/index.php) (ITEEDU)
 
 - [构建自己的 PHP 框架](https://github.com/CraryPrimitiveMan/create-your-own-php-framework) (CraryPrimitiveMan)
+
+- [手摸手，带你用vue撸后台 系列五(v4.0新版本)](https://juejin.im/post/5c92ff94f265da6128275a85)
+
+- [从零开始编写一个React框架 【彻底了解React的设计思想】](https://segmentfault.com/a/1190000020034137#articleHeader0)
+
+- [9102年：手写一个React脚手架 【优化极致版】](https://segmentfault.com/a/1190000019126657)
+
+- [9102年：手写一个Vue的脚手架 【极致优化版】](https://segmentfault.com/a/1190000019207033)
+
+- [从零实现Vue的组件库](https://juejin.im/post/5c0b8ece5188254f9e2809fe)
+
+- [DIY一个前端监控平台（上）](https://juejin.im/post/5c8cd7bd5188257ed47b22fe)
+
+- [一步一步搭建前端监控系统：如何记录用户行为？](https://juejin.im/post/5c8cd7bd5188257ed47b22fe)
+
+- [【数据可视化之采集】如何设计一个前端监控系统](https://juejin.im/entry/58834ecb1b69e60058d8f73a)
+
+- [教你从零开始搭建一款前端脚手架工具](https://segmentfault.com/a/1190000006190814)
+
+- [从0搭建的一个webpack脚手架，支持vue单文件书写](https://juejin.im/post/5cc55c336fb9a032086dd701)
+
+- [【中高级前端必备】手摸手教你撸一个脚手架](https://juejin.im/post/5d37d982e51d45108c59a635)
+
+- [用纯 JavaScript 撸一个 MVC 程序](https://segmentfault.com/a/1190000020007033)
+
+- [一步步教你用 WebVR 实现虚拟现实游戏](https://segmentfault.com/a/1190000019135847)
+
+- [轻松10步用es6写出俄罗斯方块](https://segmentfault.com/a/1190000008181905)
+
+- [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
+
+- [从0到1搭建和部署个人博客](https://juejin.im/post/5ae170e1f265da0b7527d0dc)
+
+- [如何从零开始定义一个类似websocket的即时通讯协议](https://segmentfault.com/a/1190000019560096)
+
+- [从0到1搭建和部署个人博客](https://juejin.im/post/5ae170e1f265da0b7527d0dc)
+
+- [一行代码实现一个简单的模板字符串替换](https://github.com/jawil/blog/issues/32)
+
+## 「github」开源项目
+
+- [前端之从零开始系列](https://github.com/abc-club/free-resources/blob/master/DIY.md)
  
 了解更多干货，可以关注我的微信公众帐号，每周推送两三篇原创文字。
 
